@@ -1,6 +1,6 @@
 %******************************************************
-% TODO: FD-NDLP
+% TODO: Analyze the enhance process
 %******************************************************
-function fdndlp()
+function result_ana()
 
 end

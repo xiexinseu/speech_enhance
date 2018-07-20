@@ -9,25 +9,31 @@ close all;
 addpath(genpath(pwd));
 
 %******************************************************
-% Configurations 
+% Configurations
 %******************************************************
+ConfigPara = para_config();% TODO
 
 %******************************************************
 % Read Audio Files
 %******************************************************
-   
+read_audio();% TODO
+
 %******************************************************
-% Add Unideal factors like: noise
+% Add nonideal factors like: noise, reverberation, echo
 %******************************************************
+add_nonideal_fact();% TODO
 
 %******************************************************
 % speech enhance Processing
 %******************************************************
-enhance_process();
+enhance_process();% TODO
+
 %******************************************************
 % write Audio Files
 %******************************************************
+write_audio();% TODO
 
 %******************************************************
-% Analysis the enhance process
+% Analyze the enhance process
 %******************************************************
+result_ana();% TODO

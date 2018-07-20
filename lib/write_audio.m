@@ -1,6 +1,6 @@
 %******************************************************
-% TODO: FD-NDLP
+% TODO: write Audio Files
 %******************************************************
-function fdndlp()
+function write_audio()
 
 end

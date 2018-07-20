@@ -1,6 +1,6 @@
 %******************************************************
-% TODO: FD-NDLP
+% TODO: Add nonideal factors like: noise, reverberation, echo
 %******************************************************
-function fdndlp()
+function add_nonideal_fact()
 
 end

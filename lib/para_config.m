@@ -1,6 +1,6 @@
 %******************************************************
-% TODO: FD-NDLP
+% TODO: Configurations
 %******************************************************
-function fdndlp()
+function para_config()
 
 end
